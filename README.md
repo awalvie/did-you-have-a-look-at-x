@@ -6,14 +6,11 @@ The repository started as a way of sharing information and resources that two so
 
 ### Uncategorized Links
 
-https://www.inventum.net/
 https://progvar.fun/
-https://chat.whatsapp.com/HtghtaONUzkJEIX2j0hEtI
 https://github.com/danistefanovic/build-your-own-x
 https://github.com/khanhas/spicetify-cli
 https://github.com/nvbn/thefuck
 https://www.michaelfogleman.com/
-https://learnto.computer/courses
 https://fullstackopen.com
 https://github.com/williamfiset/Algorithms
 http://www.linuxfromscratch.org/lfs/
@@ -21,18 +18,15 @@ https://github.com/alex/what-happens-when/blob/master/README.rst
 https://github.com/ytdl-org/youtube-dl
 https://noopschallenge.com
 https://github.com/nvbn/thefuck
-https://github.com/kelseyhightower/nocodehttps://github.com/kelseyhightower/nocode
+https://github.com/kelseyhightower/nocode
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/jwasham/coding-interview-university
 https://karngyan.github.io/hash-tables-1/
 https://github.com/kaustubh-karkare/project-omega/blob/master/assignments/%5B1%5D%20command-line-options-parser.md
 https://github.com/corollari/linusrants
 https://soqueira.github.io/My-100-days-css/
-https://www.gitmemory.com/karngyan
 https://github.com/ActivityWatch/activitywatch
 https://github.com/awalvie/bookmarks
-https://vulkan-tutorial.com/code/16_swap_chain_recreation.cpp
-https://www.imdb.com/title/tt7775622/
 https://howistart.org/
 https://devconnected.com/syslog-the-complete-system-administrator-guide/
 https://github.com/Rigellute/spotify-tui
@@ -50,7 +44,6 @@ https://www.codechef.com/certification/data-structures-and-algorithms/prepare#fo
 https://webring.xxiivv.com/
 https://shards.lectronice.com/
 https://lfs.gitbook.io/home/
-https://docs.google.com/presentation/d/1lGzEygq-28lXQpk9hQg9az4hQuwhSzkAB4VklLdoeLk/edit?usp=sharing
 https://github.com/hundredrabbits/Left
 https://github.com/deezer/spleeter
 https://serversforhackers.com/
@@ -62,7 +55,6 @@ https://ricky.codes/
 https://www.romanzolotarev.com/
 https://theprogrammershangout.com/
 https://wiki.xxiivv.com/#knowledge
-https://vimeo.com/372351782
 https://adventofcode.com/
 https://www.outreachy.org/
 https://cses.fi/book/
@@ -70,7 +62,6 @@ https://aws.amazon.com/lumberyard/
 https://aosabook.org/en/index.html
 https://www.amazon.com/Samuel-L-Jackson-celebrity-voice/dp/B07WS3HN5Q
 https://vimium.github.io/
-https://season.kde.org/?q=program_home&prg=47
 https://theprogrammershangout.com/
 https://b-ok.cc/
 https://crh.dev/TreeGenerator/TreeD.html
@@ -95,10 +86,8 @@ https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work
 https://linux.die.net/man/1/ssh
 https://github.com/jeroen/ssh2
 https://github.com/openssh/openssh-portable
-https://www.reddit.com/r/IndieGaming/comments/fa2guf/test_of_an_ar_concept/?utm_medium=android_app&utm_source=share
 https://codeforces.com/blog/entry/43237
 https://codeforces.com/harbourspace
-https://www.reddit.com/r/ProgrammerHumor/comments/faij0h/flying_to_mars/?utm_medium=android_app&utm_source=share
 https://github.com/aforensics/HiddenVM
 http://chng.it/TsPFkvBbyy
 https://missing.csail.mit.edu/
@@ -113,7 +102,6 @@ https://slipsum.com/
 http://lyrem-ipsum.com/
 https://fashionipsum.com/classic.html
 https://trumpipsum.net/
-https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/
 https://www.romanzolotarev.com/
 https://aosabook.org/en/index.html
 https://dougblack.io/words/a-good-vimrc.html
