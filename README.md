@@ -571,3 +571,17 @@ https://github.com/jskjott/git-for-filmmakers
 https://github.com/jskjott/visiweave
 
 https://github.com/logseq/logseq
+
+https://github.com/jakevdp/PythonDataScienceHandbook
+
+https://joinmastodon.org/
+
+https://github.com/StevenBlack/hosts
+
+https://github.com/gto76/python-cheatsheet
+
+https://github.com/norvig/pytudes
+
+https://joinpeertube.org/#what-is-peertube
+
+http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html
