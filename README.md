@@ -4,6 +4,50 @@ The repository started as a way of sharing information and resources that two so
 
 ### Uncategorized Links
 
+https://survol.me/
+
+https://artvee.com/
+
+https://github.com/Ciphey/Ciphey
+
+https://trunkbaseddevelopment.com/
+
+https://github.com/taneliang/stack-attack
+
+https://www.cs.tufts.edu/~nr/noweb/
+
+https://wiki.techinc.nl/index.php/Hackers_tribes
+
+https://searchmysite.net/
+
+https://blog.burntsushi.net/transducers/
+
+https://themorningcontext.com/the-inside-story-of-the-khatabook-dukaan-mess/
+
+https://weirdwidewebring.net/
+
+https://ferd.ca/awk-in-20-minutes.html
+
+https://theprogrammershangout.com/resources/projects/http-project-guide/intro.md
+
+https://ffmpegwasm.github.io/
+
+https://grimgrains.com/site/home.html
+
+http://wiki.c2.com/?ExtremeProgrammingRoadmap
+
+http://dantelab.dartmouth.edu/reader
+
+https://resumake.io/
+
+https://www.dwitter.net/
+
+https://github.com/syl20bnr/spacemacs
+
+https://github.com/rougier/mu4e-dashboard
+
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 https://progvar.fun/
 
 https://github.com/danistefanovic/build-your-own-x
